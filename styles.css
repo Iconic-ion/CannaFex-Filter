@@ -100,7 +100,7 @@ label {
         box-shadow: 2px 3px 3px rgba(0,0,0,0.4)
 }
 img {
-    max-width: 270px;
+    max-width: 225px;
 }
 .list-modal-close-btn{
    
@@ -127,15 +127,3 @@ img {
     justify-content: space-around;
     margin: 10px;
 }
-/* #strain-modal-inner {
-    margin: 0;
-    height: 10px;
-    border: 1px solid black;
-}
-/*  */
-
-/* 
-.list-item {
-    max-width: 200px;
-    max-height: 200px;
-} */ */ */
