@@ -1,4 +1,4 @@
-import { data } from '/data.js'
+import { data } from './data.js'
 
 const getStrainBtn = document.getElementById('get-strain-btn')
 const effectsRadios = document.querySelector('#effects-radios');
